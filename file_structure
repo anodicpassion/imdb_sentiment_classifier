@@ -1,0 +1,18 @@
+.
+├── LICENSE
+├── README.md
+├── data
+│   ├── __pycache__
+│   │   └── load_data.cpython-312.pyc
+│   └── load_data.py
+├── evaluate.py
+├── file_structure
+├── models
+│   ├── __pycache__
+│   │   └── lstm_model.cpython-312.pyc
+│   └── lstm_model.py
+├── requirements.txt
+├── test.py
+└── train.py
+
+5 directories, 11 files
